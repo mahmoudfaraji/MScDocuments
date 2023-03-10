@@ -4,10 +4,10 @@ Designing a cryptographic algorithm can be one of the solutions in order to eval
 Also this algorithm was passed NIST, Avalanche, Completeness and other Frequency test.
 
 <p style='padding-left: 30px;'> Overview:</p>
-<img style='border: 3px solid #111;width: 600px;' alt="Cryptography Algorithm" src="/newCryptographyAlg/images/Cryptography Alg. pic1.png">
+<img style='border: 3px solid #111;width: 600px;' alt="Cryptography Algorithm" src="/TechnicalReports/newCryptoAlgorithm/images/Cryptography Alg. pic1.png">
 
 <p style='padding-left: 30px;'> Function f:</p>
-<img style='border: 3px solid #111;width: 600px;' alt="Cryptography Algorithm" src="/newCryptographyAlg/images/Cryptography Alg. pic2.png">
+<img style='border: 3px solid #111;width: 600px;' alt="Cryptography Algorithm" src="/TechnicalReports/newCryptoAlgorithm/images/Cryptography Alg. pic2.png">
 
 <p style='padding-left: 30px;'> Key Generation:</p>
-<img style='border: 3px solid #111;width: 600px;' alt="Cryptography Algorithm" src="/newCryptographyAlg/images/Cryptography Alg. pic3.png">
+<img style='border: 3px solid #111;width: 600px;' alt="Cryptography Algorithm" src="/TechnicalReports/newCryptoAlgorithm/images/Cryptography Alg. pic3.png">
